@@ -5,3 +5,4 @@ Git tracks changes of files.
 try to commit to remote repo
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+branch management
